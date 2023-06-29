@@ -1,7 +1,7 @@
 <header class="site-header">
       <div class="container flex-container">
         <div class="logo">
-          <a href="#"><img src="../app/logo/logo5.png" alt="tripster" /></a>
+          <a href="#"><img src="../app/logo/logo5.png" alt="tripster"></a>
         </div>
         <nav class="main-nav" id="mainNav">
           <div class="menu-btn">

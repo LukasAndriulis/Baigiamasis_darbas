@@ -11,7 +11,7 @@
             <p>Copyright &copy; Tripster <?php echo date('Y') ; ?>. All rights reserved</p>
           </div>
           <div class="footer-logo">
-            <a href="#"><img src="../app/logo/logo5.png" alt="tripster" /></a>
+            <a href="#"><img src="../app/logo/logo5.png" alt="tripster"></a>
           </div>
         </div>
       </div>

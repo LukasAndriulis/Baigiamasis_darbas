@@ -5,8 +5,7 @@
       <h1>Outdoor leisure</h1>
       <h2>Unwind. Recharge. Explore.</h2>
       <p>
-        Escape the daily grind and immerse yourself in some of the nature's exciting adventures. Find solace, embrace tranquility, and embark on extraordinary adventures with Tripster. Experience
-        the perfect blend of relaxation and exploration in nature's embrace.
+        Escape the daily grind and immerse yourself in some of the nature's exciting adventures. Discover the world's hidden gems, meet new people from different parts of the planet, embark on unforgettable journeys in the most breathtaking landscapes or vibrant cultures that will change your viewpoint on the world itself! Have extraordinary adventures with Tripster.
       </p>
     </div>
     <div class="hero-socials"></div>
@@ -32,7 +31,7 @@
     <div class="lower-content flex-container">
       <div class="destinations-lower-content flex-container">
         <div class="forest-greens destinations-block flex-container">
-          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-darwis-alwan.png" alt="square-img" />
+          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-darwis-alwan.png" alt="square-img">
           <div class="descriptions destinations-block-descriptions">
             <h2>Forest greens</h2>
             <p>Embark on a mesmerizing forest adventure, where nature unveils its captivating wonders at every turn.</p>
@@ -46,7 +45,7 @@
           </div>
         </div>
         <div class="desert-rally destinations-block flex-container">
-          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-jônatas-tinoco.png" alt="square-img" />
+          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-jônatas-tinoco.png" alt="square-img">
           <div class="descriptions destinations-block-descriptions">
             <h2>Desert rally</h2>
             <p>Discover the enchanting desert as you explore vast stretches of sand, basking in the golden sunlight.</p>
@@ -60,7 +59,7 @@
           </div>
         </div>
         <div class="colorful-creeks destinations-block flex-container">
-          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-michael-block.png" alt="square-img" />
+          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-michael-block.png" alt="square-img">
           <div class="descriptions destinations-block-descriptions">
             <h2>Colorful creeks</h2>
             <p>Experience a thrilling adventure in a rugged and wooded terrain, where rocky landscapes and lush forests converge.</p>
@@ -74,7 +73,7 @@
           </div>
         </div>
         <div class="northern-lights destinations-block flex-container">
-          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-tobias-bjørkli.png" alt="square-img" />
+          <img class="destinations-block-images" src="../app/images/adventures/Optimized-pexels-tobias-bjørkli.png" alt="square-img">
           <div class="descriptions destinations-block-descriptions">
             <h2>Northern lights</h2>
             <p>Witness the breathtaking spectacle of the northern lights, as vibrant colors swirl and paint the night with ethereal beauty.</p>
@@ -103,16 +102,16 @@
       </div>
       <div class="about-images">
         <div class="our-picture">
-          <img src="../app/images/people/Optimized-pexels-andrea-piacquadio.png" alt="" />
+          <img src="../app/images/people/Optimized-pexels-andrea-piacquadio.png" alt="">
         </div>
         <div class="our-picture">
-          <img src="../app/images/people/Optimized-pexels-danang-wicaksono.png" alt="" />
+          <img src="../app/images/people/Optimized-pexels-danang-wicaksono.png" alt="">
         </div>
         <div class="our-picture">
-          <img src="../app/images/people/Optimized-pexels-pixabay-bicas.png" alt="" />
+          <img src="../app/images/people/Optimized-pexels-pixabay-bicas.png" alt="">
         </div>
         <div class="our-picture">
-          <img src="../app/images/people/Optimized-pexels-pixabay-pana.png" alt="" />
+          <img src="../app/images/people/Optimized-pexels-pixabay-pana.png" alt="">
         </div>
       </div>
     </div>
@@ -134,7 +133,7 @@
           </p>
           <p></p>
           <div class="testimonial-person-details">
-            <img src="../app/images/people/Optimized-pexels-daniel-xavier-profile-img.png" alt="" />
+            <img src="../app/images/people/Optimized-pexels-daniel-xavier-profile-img.png" alt="">
             <p>Olivia Brown</p>
           </div>
         </div>
@@ -145,7 +144,7 @@
             Highly recommended!
           </p>
           <div class="testimonial-person-details">
-            <img src="../app/images/people/Optimized-pexels-stefan-stefancik-profile-img.png" alt="" />
+            <img src="../app/images/people/Optimized-pexels-stefan-stefancik-profile-img.png" alt="">
             <p>Liam Smith</p>
           </div>
         </div>
@@ -156,7 +155,7 @@
             recommend this!
           </p>
           <div class="testimonial-person-details">
-            <img src="../app/images/people/Optimized-pexels-andrea-piacquadio-profile-img.png" alt="" />
+            <img src="../app/images/people/Optimized-pexels-andrea-piacquadio-profile-img.png" alt="">
             <p>Emma Johnson</p>
           </div>
         </div>
@@ -167,7 +166,7 @@
             Will definitely be back for more!
           </p>
           <div class="testimonial-person-details">
-            <img src="../app/images/people/Optimized-pexels-justin-shaifer-profile-img.png" alt="" />
+            <img src="../app/images/people/Optimized-pexels-justin-shaifer-profile-img.png" alt="">
             <p>Noah Davis</p>
           </div>
         </div>
@@ -185,11 +184,11 @@
       <div class="section-content">
         <form class="contact-form" id="contact" action="index.php" method="post">
           <div class="input-row">
-            <input type="text" name="vardas" placeholder="Your Name" required/>
-            <input type="email" name="email" placeholder="Your Email" required/>
+            <input type="text" name="vardas" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
           </div>
           <textarea name="message" placeholder="Your Message" rows="8" required></textarea>
-          <br />
+          <br>
           <p><button name="submit" type="submit" class="submit-btn btn-form" id="contact-submit">Submit</button></p>
         </form>
       </div>
@@ -200,7 +199,7 @@
   <div class="container">
     <div class="see-you-soon-container">
       <h2>See you soon!</h2>
-      <p>We hope that you've found something of your interest! Let's embark on an adventure together!</p>
+      <p>We hope that you will find something of your interest! Let's keep in touch and make sure that your dream adventure gets fulfilled! Let's embark on an adventure together!</p>
     </div>
   </div>
 </section>

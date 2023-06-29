@@ -326,10 +326,10 @@ header .container {
 }
 .about-images {
     display: flex;
-    /* flex-wrap: wrap; */
-    flex-direction: column;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
     /* width: 100%; */
-    max-width: 300px;
+    max-width: 320px;
     align-items: center;
     padding-left: 10px;
 }
@@ -613,9 +613,6 @@ section.see-you-soon {
     .contacts-container {
         width: 50%;
     }
-    .about-images {
-        max-width: 500px;
-    }
     .menu-btn {
         position:relative;
         width:100%;
@@ -685,7 +682,6 @@ section.see-you-soon {
 @media screen and (min-width:1200px){
     .about-images {
         max-height: 720px;
-        max-width: 550px;
     }
 }
 /* -------------- */
